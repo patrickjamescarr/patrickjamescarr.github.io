@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/img-2-brix/static/css/main.d69bda90.chunk.css",
+    "main.js": "/img-2-brix/static/js/main.ded5a978.chunk.js",
+    "main.js.map": "/img-2-brix/static/js/main.ded5a978.chunk.js.map",
+    "runtime-main.js": "/img-2-brix/static/js/runtime-main.7bd96408.js",
+    "runtime-main.js.map": "/img-2-brix/static/js/runtime-main.7bd96408.js.map",
+    "static/js/2.6921307f.chunk.js": "/img-2-brix/static/js/2.6921307f.chunk.js",
+    "static/js/2.6921307f.chunk.js.map": "/img-2-brix/static/js/2.6921307f.chunk.js.map",
+    "index.html": "/img-2-brix/index.html",
+    "precache-manifest.ba824e30cda653585d4dd65be8c83428.js": "/img-2-brix/precache-manifest.ba824e30cda653585d4dd65be8c83428.js",
+    "service-worker.js": "/img-2-brix/service-worker.js",
+    "static/css/main.d69bda90.chunk.css.map": "/img-2-brix/static/css/main.d69bda90.chunk.css.map",
+    "static/js/2.6921307f.chunk.js.LICENSE.txt": "/img-2-brix/static/js/2.6921307f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bd96408.js",
+    "static/js/2.6921307f.chunk.js",
+    "static/css/main.d69bda90.chunk.css",
+    "static/js/main.ded5a978.chunk.js"
+  ]
+}
